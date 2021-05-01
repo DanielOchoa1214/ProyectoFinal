@@ -45,6 +45,12 @@ Para poder correr correctamente la libreria es importante fijarse que se descarg
 * Git - Control de versiones
 * GitHub - Aloja las versiones de Git
 
+## Notas 
+
+* Las 4 funciones usadas para el algoritmo de Deutsch estan en la carpeta Funciones {0, 1} -> {0, 1}
+* Las 2 funciones usadas para el algoritmo de Deutsch-Jozsa estan en la carpeta Funciones {0, 1}^n -> {0, 1}
+* Los 4 circuitos usados para el algoritmo de Deutsch estan en la carpeta Algoritmo de Deutsch
+* Los 2 circuitos usados para el algoritmo de Deutsch-Jozsa estan en la carpeta Algoritmo de Deutsch-Jozsa
 
 ## Autor 
 Daniel Sebastian Ochoa Urrego 
